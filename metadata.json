@@ -1,0 +1,5 @@
+{
+  "name": "Topic-Locked AI Assistant",
+  "description": "A React-based chat interface using Gemini API that restricts conversation to a specific topic defined in the configuration.",
+  "requestFramePermissions": []
+}
